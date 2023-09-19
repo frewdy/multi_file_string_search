@@ -1,0 +1,18 @@
+
+$One
+
+INCLUDE '/Users/frewdy/Desktop/Coding/codingProjects/Multi_File_String_Search/
+Dummy_Folder_1/Dummy_Doc_1.dat'
+
+INCLUDE '/Users/frewdy/Desktop/Coding/codingProjects/Multi_File_String_Search/
+Dummy_Folder_1/Dummy_Doc_2.dat'
+
+
+
+$Two
+
+INCLUDE '/Users/frewdy/Desktop/Coding/codingProjects/Multi_File_String_Search/
+Dummy_Folder_2/Dummy_Doc_1.dat'
+
+INCLUDE '/Users/frewdy/Desktop/Coding/codingProjects/Multi_File_String_Search/
+Dummy_Folder_2/Dummy_Doc_2.dat'
